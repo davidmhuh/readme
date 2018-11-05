@@ -1,7 +1,7 @@
 <div>
-    <h1><a href= "https://threaderzzz.herokuapp.com/">Threader</a></h1>
+    <h1><a href= "https://threaderzzz.herokuapp.com/">Threaderzzz</a></h1>
         <br>
-        <h1>Why Threader?</h1>
+        <h1>Why Threaderzzz?</h1>
             <p>Our mission is to provide an environment where fellow developers can help others with their experience, knowledge, and insight. With our mentorship system, logged-in users are able to upvote others to become mentors. There is also an option to downvote other users enough for them to lose their position and status as a mentor.Mentors are given tools to help others out such as replying to the current forums, or to privately tutor others in need with our inhouse chat room. We are sure that this app can prove to be accessible and user-friendly to all developers who are both in need of help and willing to help others.</p>
             <br>
         <h1>Demo</h1>
@@ -49,7 +49,7 @@
                 <br>
             </div>
         <h1>Instructions</h1>
-            <p>1. Clone  <a href="https://github.com/vedelacruz/project3">Repo</a> or go on <a href= "https://threaderzzz.herokuapp.com/">Threader app</a>.</p>
+            <p>1. Clone  <a href="https://github.com/vedelacruz/project3">Repo</a> or go on <a href= "https://threaderzzz.herokuapp.com/">Threaderzzz app</a>.</p>
             <p>2. Plug in Data if cloned</p>
             <p>3. Register, or log in as a previously made user. (optional)</p>
             <p>4. Add a thread, comment, or play around with the site.</p>
