@@ -6,7 +6,7 @@
             <br>
         <h1>Demo</h1>
             <div>
-                <video alt="Description" src="https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif">
+                <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif">
             </div>
                 <br>
         <h1>ScreenShots</h1>
