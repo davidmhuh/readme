@@ -11,7 +11,7 @@
             <br>
         <h1>ScreenShots</h1>
         <br>
-        <div>![threader homepage]https://user-images.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png
+        <div>![threader homepage]https://raw.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png
         <br>
         This is the home page. We have a functional login/logout system as well as a register a new username. If the user choose to not log in or create a new user, he/she can still use the app, but with limited access. The six buttons users click above will send the user to different areas that I will explain!
         </div>
