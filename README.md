@@ -1,49 +1,53 @@
-![threader homepage]https://user-images.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png
-
 <div>
     <h1><a href= "https://threaderzzz.herokuapp.com/">Threader</a></h1>
-    <br>
+        <br>
         <h1>Why Threader?</h1>
             <p>Our mission is to provide an environment where fellow developers can help others with their experience, knowledge, and insight. With our mentorship system, logged-in users are able to upvote others to become mentors. There is also an option to downvote other users enough for them to lose their position and status as a mentor.Mentors are given tools to help others out such as replying to the current forums, or to privately tutor others in need with our inhouse chat room. We are sure that this app can prove to be accessible and user-friendly to all developers who are both in need of help and willing to help others.</p>
-    <br>
+            <br>
         <h1>Demo</h1>
             <div>
-            <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif">
+                <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif">
             </div>
-            <br>
+                <br>
         <h1>ScreenShots</h1>
-        <br>
-        <div>![threader homepage]https://raw.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png
-        <br>
-        This is the home page. We have a functional login/logout system as well as a register a new username. If the user choose to not log in or create a new user, he/she can still use the app, but with limited access. The six buttons users click above will send the user to different areas that I will explain!
-        </div>
-        <br>
-        <div>![threader forum categories](https://user-images.githubusercontent.com/18372977/48027230-16488800-e0fd-11e8-934d-d737e294cb3f.png)
-        <br>
-        Once the user clicks a category under the forums, it will be sent to a page that looks very similiar to this. Here the user can see the different categories for the current forum. You can choose to view or reply to the individual threads or create your own. However, the user cannot reply or create if he/she are logged in.
-        </div>
-        <br>
-        <div>![threader reply comment](https://user-images.githubusercontent.com/18372977/48027362-73443e00-e0fd-11e8-801a-35a79591fc85.png)
-        <br>
-        After the user click onto a thread, the user will be on this page. If the user is logged in, this page allows the user to reply to a the thread. Also, the user can also upvote or downvote other users based on their judgement, logic, reasoning, and relevance to the thread.
-        </div>
-        <br>
-        <div>![threader create mentorship](https://user-images.githubusercontent.com/18372977/48027909-f1edab00-e0fe-11e8-888b-c7ad83a3d8a9.png)
-        <br>
-        If a user needs private help, they will click on the class button, then request mentorship. As shown on the page, the user is finally able to request for mentorship. This request will give access to the mentors to give a private chatroom with the user to who needs mentorship.
-        </div>
-        <br>
-        <div>![threader inbox](https://user-images.githubusercontent.com/18372977/48028963-ddf77880-e101-11e8-9d2c-ba42b9474df0.png)
-        <br>
-        On the inbox page, the user is able to review messages sent from other users. The outbox a similiar page, but the user is able to see the messages that he/she sent out. To send out a message, the user must click on the profile of the user they want to message.
-        </div>
-        <br>
-        <div>![threader inhouse chatroom](https://user-images.githubusercontent.com/18372977/48028958-d6d06a80-e101-11e8-8222-1ca0cfe99772.png)
-        <br>
-        This page is our inhouse chatroom that was developed for the app. The chatroom is a link where the user can mentor or be mentored by another user. Using our messaging system, the user will either give a link, or be give a link to have access to this chatroom.
-        </div>
-        <br>
-        </div>
+                <br>
+            <div>
+                <img alt="Description" src="https://raw.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png">
+                <br>
+            This is the home page. We have a functional login/logout system as well as a register a new username. If the user choose to not log in or create a new user, he/she can still use the app, but with limited access. The six buttons users click above will send the user to different areas that I will explain!
+            </div>
+                <br>
+            <div>
+                <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48027230-16488800-e0fd-11e8-934d-d737e294cb3f.png">
+                <br>
+            Once the user clicks a category under the forums, it will be sent to a page that looks very similiar to this. Here the user can see the different categories for the current forum. You can choose to view or reply to the individual threads or create your own. However, the user cannot reply or create if he/she are logged in.
+            </div>
+                <br>
+            <div>
+                <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48027362-73443e00-e0fd-11e8-801a-35a79591fc85.png">
+                <br>
+            After the user click onto a thread, the user will be on this page. If the user is logged in, this page allows the user to reply to a the thread. Also, the user can also upvote or downvote other users based on their judgement, logic, reasoning, and relevance to the thread.
+            </div>
+                <br>
+            <div>
+                <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48027909-f1edab00-e0fe-11e8-888b-c7ad83a3d8a9.png">
+                <br>
+            If a user needs private help, they will click on the class button, then request mentorship. As shown on the page, the user is finally able to request for mentorship. This request will give access to the mentors to give a private chatroom with the user to who needs mentorship.
+            </div>
+                <br>
+            <div>
+            <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48028963-ddf77880-e101-11e8-9d2c-ba42b9474df0.png">
+                <br>
+            On the inbox page, the user is able to review messages sent from other users. The outbox a similiar page, but the user is able to see the messages that he/she sent out. To send out a message, the user must click on the profile of the user they want to message.
+            </div>
+                <br>
+            <div>
+            <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48028958-d6d06a80-e101-11e8-8222-1ca0cfe99772.png">
+                <br>
+            This page is our inhouse chatroom that was developed for the app. The chatroom is a link where the user can mentor or be mentored by another user. Using our messaging system, the user will either give a link, or be give a link to have access to this chatroom.
+            </div>
+                <br>
+            </div>
         <h1>Instructions</h1>
             <p>1. Clone  <a href="https://github.com/vedelacruz/project3">Repo</a> or go on <a href= "https://threaderzzz.herokuapp.com/">Threader app</a>.</p>
             <p>2. Plug in Data if cloned</p>
