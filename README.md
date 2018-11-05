@@ -5,11 +5,11 @@
             <p>Our mission is to provide an environment where fellow developers can help others with their experience, knowledge, and insight. With our mentorship system, logged-in users are able to upvote others to become mentors. There is also an option to downvote other users enough for them to lose their position and status as a mentor.Mentors are given tools to help others out such as replying to the current forums, or to privately tutor others in need with our inhouse chat room. We are sure that this app can prove to be accessible and user-friendly to all developers who are both in need of help and willing to help others.</p>
     <br>
         <h1>Demo</h1>
-            (https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif)
+            (https://raw.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif)
             <br>
         <h1>ScreenShots</h1>
         <br>
-        <div>![threader homepage]https://user-images.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png
+        <div>![threader homepage]https://raw.githubusercontent.com/18372977/48026691-a38add00-e0fb-11e8-8386-80e40c3c5427.png
         <br>
         This is the home page. We have a functional login/logout system as well as a register a new username. If the user choose to not log in or create a new user, he/she can still use the app, but with limited access. The six buttons users click above will send the user to different areas that I will explain!
         </div>
