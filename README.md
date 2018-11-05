@@ -5,7 +5,7 @@
             <p>Our mission is to provide an environment where fellow developers can help others with their experience, knowledge, and insight. With our mentorship system, logged-in users are able to upvote others to become mentors. There is also an option to downvote other users enough for them to lose their position and status as a mentor.Mentors are given tools to help others out such as replying to the current forums, or to privately tutor others in need with our inhouse chat room. We are sure that this app can prove to be accessible and user-friendly to all developers who are both in need of help and willing to help others.</p>
     <br>
         <h1>Demo</h1>
-            ![threader gif 1](https://user-images.githubusercontent.com/18372977/48031322-a2ac7800-e108-11e8-8e24-7f31d88ba62b.gif)
+           ![threader gif 1](https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif)
             <br>
         <h1>ScreenShots</h1>
         <br>
