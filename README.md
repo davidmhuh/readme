@@ -1,15 +1,30 @@
 <div>
     <h1><a href= "https://threaderzzz.herokuapp.com/">Threaderzzz</a></h1>
         <br>
-        <h1>Why Threaderzzz?</h1>
+        <h1>Table of Content</h1>
+            <a href="#info">Mission</a>
+        <br>
+            <a href="#demo">Demo</a>   
+        <br>
+            <a href="#screenShots">ScreenShots</a>
+        <br>
+            <a href="#instructions">Instructions</a>
+        <br>
+            <a href="#built">Built With</a>
+        <br>
+            <a href="#team">Meet the Team</a>
+        <br>
+            <a href="#credits">Credit</a>
+        <br>
+        <h1 id="info">Why Threaderzzz?</h1>
             <p>Our mission is to provide an environment where fellow developers can help others with their experience, knowledge, and insight. With our mentorship system, logged-in users are able to upvote others to become mentors. There is also an option to downvote other users enough for them to lose their position and status as a mentor.Mentors are given tools to help others out such as replying to the current forums, or to privately tutor others in need with our inhouse chat room. We are sure that this app can prove to be accessible and user-friendly to all developers who are both in need of help and willing to help others.</p>
             <br>
-        <h1>Demo</h1>
+        <h1 id="demo">Demo</h1>
             <div>
                 <img alt="Description" src="https://user-images.githubusercontent.com/18372977/48031617-ab517e00-e109-11e8-9b1e-306275bff217.gif">
             </div>
                 <br>
-        <h1>ScreenShots</h1>
+        <h1 id="screenShots">ScreenShots</h1>
                 <br>
             <div>
                 <h6>Home Page</h6>
@@ -54,14 +69,14 @@
             </div>
                 <br>
             </div>
-        <h1>Instructions</h1>
+        <h1 id="instructions">Instructions</h1>
             <p>1. Clone  <a href="https://github.com/vedelacruz/project3">Repo</a> or go on <a href= "https://threaderzzz.herokuapp.com/">Threaderzzz app</a>.</p>
             <p>2. Plug in Data if cloned</p>
             <p>3. Register, or log in as a previously made user. (optional)</p>
             <p>4. Add a thread, comment, or play around with the site.</p>
             <p>5. Comment other threads, or request a private mentorship from another user!</p>
             <br>
-        <h1>Built With</h1>
+        <h1 id="built">Built With</h1>
             <p>
             1. <a href="https://github.com/quilljs/quill">Quill</a>
             <br>
@@ -72,7 +87,7 @@
             4. <a href="https://www.npmjs.com/package/socket.io">Socket-io</a>
             </p>
             <br>
-        <h1>Meet the team</h1>
+        <h1 id="team">Meet the team</h1>
         <br>
             <p>
             <a href="https://github.com/ironaidan">Aidan</a>
@@ -81,6 +96,6 @@
             <a href="https://github.com/vedelacruz">Vernie</a>
             </p>
         <br>
-        <h1>Credits</h1>
+        <h1 id="credits">Credits</h1>
             Thank you to all the friends and instructors that assisted us on the app!
 </div>
