@@ -72,9 +72,10 @@
         <h1 id="instructions">Instructions</h1>
             <p>1. Clone  <a href="https://github.com/vedelacruz/project3">Repo</a> or go on <a href= "https://threaderzzz.herokuapp.com/">Threaderzzz app</a>.</p>
             <p>2. Plug in Data if cloned</p>
-            <p>3. Register, or log in as a previously made user. (optional)</p>
-            <p>4. Add a thread, comment, or play around with the site.</p>
-            <p>5. Comment other threads, or request a private mentorship from another user!</p>
+            <p>3. Yarn Install for packages</p>
+            <p>4. Register, or log in as a previously made user. (optional)</p>
+            <p>5. Add a thread, comment, or play around with the site.</p>
+            <p>6. Comment other threads, or request a private mentorship from another user!</p>
             <br>
         <h1 id="built">Built With</h1>
             <p>
@@ -97,5 +98,5 @@
             </p>
         <br>
         <h1 id="credits">Credits</h1>
-            Thank you to all the friends and instructors that assisted us on the app!
+            Thank you to all the friends and instructors that assisted us on the app! We do not support windows 7!
 </div>
